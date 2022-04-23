@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3725D1AE2814911900788CBB /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1AD2814911900788CBB /* FirstVC.swift */; };
+		3725D1B02814912200788CBB /* FirstVMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1AF2814912200788CBB /* FirstVMI.swift */; };
+		3725D1B22814912B00788CBB /* FirstVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1B12814912B00788CBB /* FirstVM.swift */; };
+		3725D1B4281493FC00788CBB /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1B3281493FC00788CBB /* SecondVC.swift */; };
+		3725D1B6281494A900788CBB /* FirstC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1B5281494A900788CBB /* FirstC.swift */; };
+		3725D1B82814964300788CBB /* FDVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1B72814964300788CBB /* FDVC.swift */; };
+		3725D1BA2814964B00788CBB /* FDVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1B92814964B00788CBB /* FDVM.swift */; };
+		3725D1BC2814965800788CBB /* FDVMI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1BB2814965800788CBB /* FDVMI.swift */; };
+		3725D1BE2814966300788CBB /* FDC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3725D1BD2814966300788CBB /* FDC.swift */; };
 		37912C65281445AC0087B95E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37912C64281445AC0087B95E /* AppDelegate.swift */; };
 		37912C67281445AC0087B95E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37912C66281445AC0087B95E /* SceneDelegate.swift */; };
 		37912C6E281445AD0087B95E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37912C6D281445AD0087B95E /* Assets.xcassets */; };
@@ -39,6 +48,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3725D1AD2814911900788CBB /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
+		3725D1AF2814912200788CBB /* FirstVMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVMI.swift; sourceTree = "<group>"; };
+		3725D1B12814912B00788CBB /* FirstVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVM.swift; sourceTree = "<group>"; };
+		3725D1B3281493FC00788CBB /* SecondVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
+		3725D1B5281494A900788CBB /* FirstC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstC.swift; sourceTree = "<group>"; };
+		3725D1B72814964300788CBB /* FDVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDVC.swift; sourceTree = "<group>"; };
+		3725D1B92814964B00788CBB /* FDVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDVM.swift; sourceTree = "<group>"; };
+		3725D1BB2814965800788CBB /* FDVMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDVMI.swift; sourceTree = "<group>"; };
+		3725D1BD2814966300788CBB /* FDC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FDC.swift; sourceTree = "<group>"; };
 		37912C61281445AC0087B95E /* App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		37912C64281445AC0087B95E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37912C66281445AC0087B95E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +100,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3725D1A9281490CF00788CBB /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				3725D1AA281490D600788CBB /* FirstScene */,
+				3725D1AC281490ED00788CBB /* FirstDetailScene */,
+				3725D1AB281490E400788CBB /* SecondScene */,
+			);
+			path = Scenes;
+			sourceTree = "<group>";
+		};
+		3725D1AA281490D600788CBB /* FirstScene */ = {
+			isa = PBXGroup;
+			children = (
+				3725D1AD2814911900788CBB /* FirstVC.swift */,
+				3725D1AF2814912200788CBB /* FirstVMI.swift */,
+				3725D1B12814912B00788CBB /* FirstVM.swift */,
+				3725D1B5281494A900788CBB /* FirstC.swift */,
+			);
+			path = FirstScene;
+			sourceTree = "<group>";
+		};
+		3725D1AB281490E400788CBB /* SecondScene */ = {
+			isa = PBXGroup;
+			children = (
+				3725D1B3281493FC00788CBB /* SecondVC.swift */,
+			);
+			path = SecondScene;
+			sourceTree = "<group>";
+		};
+		3725D1AC281490ED00788CBB /* FirstDetailScene */ = {
+			isa = PBXGroup;
+			children = (
+				3725D1B72814964300788CBB /* FDVC.swift */,
+				3725D1B92814964B00788CBB /* FDVM.swift */,
+				3725D1BB2814965800788CBB /* FDVMI.swift */,
+				3725D1BD2814966300788CBB /* FDC.swift */,
+			);
+			path = FirstDetailScene;
+			sourceTree = "<group>";
+		};
 		37912C58281445AC0087B95E = {
 			isa = PBXGroup;
 			children = (
@@ -141,6 +199,7 @@
 		37912C952814470B0087B95E /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				3725D1A9281490CF00788CBB /* Scenes */,
 				37912C9D281448F70087B95E /* Common */,
 				37912C98281447A80087B95E /* Extension */,
 				37912C962814475A0087B95E /* Application */,
@@ -331,11 +390,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				37912C9A281447C40087B95E /* Array+Extension.swift in Sources */,
+				3725D1BE2814966300788CBB /* FDC.swift in Sources */,
+				3725D1B02814912200788CBB /* FirstVMI.swift in Sources */,
+				3725D1AE2814911900788CBB /* FirstVC.swift in Sources */,
+				3725D1B82814964300788CBB /* FDVC.swift in Sources */,
+				3725D1BA2814964B00788CBB /* FDVM.swift in Sources */,
+				3725D1B22814912B00788CBB /* FirstVM.swift in Sources */,
 				37912CA628144A530087B95E /* TabCoordinator.swift in Sources */,
+				3725D1BC2814965800788CBB /* FDVMI.swift in Sources */,
 				37912C9C2814480C0087B95E /* NSLayoutConstraint+Extension.swift in Sources */,
+				3725D1B4281493FC00788CBB /* SecondVC.swift in Sources */,
 				37912CA0281449230087B95E /* Coordinator.swift in Sources */,
 				37912CA2281449610087B95E /* SceneCoordinator.swift in Sources */,
 				37912C65281445AC0087B95E /* AppDelegate.swift in Sources */,
+				3725D1B6281494A900788CBB /* FirstC.swift in Sources */,
 				37912C67281445AC0087B95E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -507,6 +575,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NT53S7F6FB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -533,6 +602,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NT53S7F6FB;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = App/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
