@@ -1,4 +1,4 @@
-![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/38ac769b1df1835fa14b4b8791bed7521f134d2c/Readme%201.png)
+![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%201.png)
 
 # 🐕투개더 (Togaether)
 
@@ -16,7 +16,7 @@
 ### 🧭 내 주변 모임 찾기
 <center>
 
-| find-00 | find-01 |
+| ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%202.png) | ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%203.png) |
 |:--:|:--:|
 | 찾기 탭 초기 화면 | 모임 핀을 탭하면 <br> 요약 정보 표시 |
 </center>
@@ -27,7 +27,7 @@
 ### 🔍 모임 검색하기
 <center>
 
-| find-04_1 | find-05 |
+| ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%204.png) | ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%205.png) |
 |:--:|:--:|
 | 검색 페이지 | 검색 결과 |
 </center>
@@ -38,7 +38,7 @@
 ### 🙋 모임 참여하기
 <center>
 
-| find-02 | find-02 |
+| ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%206.png) | ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%207.png) |
 |:--:|:--:|
 | 모임 상세 페이지와 <br> 참여 버튼 | 댓글 영역 |
 </center>
@@ -50,9 +50,9 @@
 
 <center>
 
-| moim-03_1 | moim-03_2 |
-|:--:|:--:|
-| 모임 생성을 위한 <br> 장소 설정 | 모임 세부 내용 작성 |
+| ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%208.png) | ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%209.png) | ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%2010.png) | ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%2011.png) |
+|:--:|:--:|:--:|:--:|
+| 모임 생성을 위한 <br> 장소 설정 | 모임 세부 내용 작성 <br> : 카테고리, 제목 | 모임 세부 내용 작성 <br> : 모임 내용, 시간, 인원 수 | 모임 세부 내용 작성 <br> : 참여 가능 조건 |
 </center>
 
 -   ‘찾기’ 탭에서 ‘+’ 버튼을 터치하면, 원하는 장소를 설정해 모임을 생성할 수 있어요.
@@ -61,7 +61,7 @@
 ### 📋 나와 내 강아지 소개하기
 <center>
 
-| mypage_00 | 
+| ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%2012.png) | 
 |:--:|
 | 마이페이지 탭 |
 </center>
