@@ -1,6 +1,8 @@
+![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/38ac769b1df1835fa14b4b8791bed7521f134d2c/Readme%201.png)
+
 # 🐕투개더 (Togaether)
 
-![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/38ac769b1df1835fa14b4b8791bed7521f134d2c/Readme%201.png)
+
 
 ## 프로젝트 소개
 <p align="justify">
