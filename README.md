@@ -1,6 +1,5 @@
-![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/01fd49ac046dfdd610a86ccfb489352a1f861844/images/Readme%201.png)
 
-# 🐕투개더 (Togaether)
+# 🐕투개더 (Togaether) : 장소 기반 맞춤형 반려견 모임 플랫폼
 
 ![](https://github.com/junsubenkim/20th-iOS-Team-1-FE/blob/a53d459f292be9b0473b829215e75170eb935830/images/Readme%2013.png)
 
