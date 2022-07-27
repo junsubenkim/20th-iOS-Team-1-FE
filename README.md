@@ -1,6 +1,6 @@
 # 🐕투개더 (Togaether)
 
-[](./Readme 1.png)
+![](./Readme 1.png)
 
 ## 프로젝트 소개
 <p align="justify">
